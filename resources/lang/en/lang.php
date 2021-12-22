@@ -31,6 +31,7 @@ return [
         'our_team' => 'OUR TEAM',
         'our_partners' => 'OUR PARTNERS',
         'our_clients' => 'OUR CLIENTS',
+        'our_vision' => 'OUR VISION',
         'contact_us' => 'CONTACT US',
         'mission' => 'MISSION',
     ],

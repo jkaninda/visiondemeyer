@@ -27,6 +27,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">{{__('lang.menu.home')}}</a></li>
           <li><a class="nav-link scrollto" href="#about">{{__('lang.menu.about_us')}}</a></li>
+          <li><a class="nav-link scrollto" href="our-vision">{{__('lang.menu.our_vision')}}</a></li>
           <li><a class="nav-link scrollto" href="#services">{{__('lang.menu.our_projects')}}</a></li>
           <li><a class="nav-link scrollto" href="#pricing">{{__('lang.menu.our_team')}}</a></li>
           <li><a href="blog.html">BLOG</a></li>

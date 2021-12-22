@@ -30,6 +30,7 @@ return [
         'our_team' => 'NOTRE EQUIPE',
         'our_partners' => 'NOS PARTENAIRES',
         'our_clients' => 'NOS CLIENTS',
+        'our_vision' => 'NOTRE VISION',
         'contact_us' => 'CONTACTEZ NOUS',
         'mission' => 'MISSION',
     ],
