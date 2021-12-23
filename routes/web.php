@@ -12,11 +12,14 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+Route::middleware(['locale'])->group(function () {
+    
 Route::get('/', function () {
     return view('home');
 });
 
 Route::get('our-vision', function () {
     return view('our-vision')->name('our-vision');
+});
+
 });

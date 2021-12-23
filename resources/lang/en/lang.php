@@ -18,6 +18,12 @@ return [
     'register' => 'Register',
     'logout' => 'Logout',
     'profile' => 'Profile',
+    'read_more' => 'Read more',
+    'donate' => 'Donate',
+    'start_changing_lives' => 'Start Changing Lives',
+    'email'=>' info@visiondemeyer.com',
+    'phone'=>' +243999995123',
+
     ],
     'menu'=>[
         'home' => 'HOME',
@@ -34,6 +40,30 @@ return [
         'our_vision' => 'OUR VISION',
         'contact_us' => 'CONTACT US',
         'mission' => 'MISSION',
+    ],
+    'hero'=>[
+        'title'=>'Building the Seeds of a Better Future',
+        'description'=>'We identify human resources, with particular emphasis on female youth who are our priority target, and design appropriate programs with the aim of forging their character and personality on the basis of ethical principles and values. “VISION FRANÇOISE DEMEYER” is a set of rigorous programs that identify and prepare talented young people, before connecting them to a national and international …',
+    'cards'=>[
+    'section_1'=>[
+        'title'=>'Support Hopeful',
+        'description'=>'We identify human resources, with particular emphasis on',
+        'button_text'=>'DONATE',
+    ],
+    'section_2'=>[
+        'title'=>'Start Changing Lives',
+        'description'=>'We identify human resources, with particular emphasis on',
+        'button_text'=>'DONATE',
+
+    ],
+    'section_3'=>[
+        'title'=>'Volunteer for People',
+        'description'=>'We identify human resources, with particular emphasis on',
+        'button_text'=>'DONATE',
+
+    ],
+
+    ],
     ],
 
 

@@ -8,13 +8,14 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Flexor</h3>
+            <h3>{{__('lang.system.app_name')}}</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              23, avenue Militants<br>
+              Quartier Funa<br>
+              Commune de Limete<br>
+              Kinshasa – Rdc<br><br>
+              <strong>Phone:</strong>{{__('lang.system.phone')}}<br>
+              <strong>Email:</strong>{{__('lang.system.email')}}<br>
             </p>
           </div>
 
