@@ -3,8 +3,10 @@
     <div class="container">
 
       <div class="section-title">
-        <h2 data-aos="fade-up">Team</h2>
-        <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <h2 data-aos="fade-up">{{__('lang.system.our_team')}}</h2>
+        <p data-aos="fade-up">
+          {{__('lang.system.our_team_desc')}}
+        </p>
       </div>
 
       <div class="row">
@@ -21,8 +23,8 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Walter White</h4>
-              <span>Founder</span>
+              <h4>Bibiche Efomi</h4>
+              <span>{{__('lang.system.founder')}}</span>
             </div>
           </div>
         </div>

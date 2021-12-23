@@ -20,6 +20,16 @@ return [
     'read_more' => 'Lire plus',
     'donate' => 'Faire un don',
     'start_changing_lives' => 'Commencer à changer la vie',
+    'founder'=>'Fondatrice',
+    'useful_links'=>'Liens utiles',
+    'about_us' => 'A propos de nous',
+    'our_vision' => 'Notre vision',
+    'our_projects' => 'Nos projets',
+    'subscribe'=>'S\'abonner',
+    'donation' => 'Donation',
+    'our_team' => 'Notre équipe',
+    'our_team_desc' => 'Nous sommes une équipe de jeunes qui sont passionnés pour la construction d\'un avenir meilleur pour les enfants vivant dans les slums.',
+
     ],
     'menu'=>[
         'home' => 'ACCEUIL',
@@ -36,6 +46,8 @@ return [
         'our_vision' => 'NOTRE VISION',
         'contact_us' => 'CONTACTEZ NOUS',
         'mission' => 'MISSION',
+        'language' => 'LANGUE',
+        'blog' => 'BLOG',
     ],
 
     'hero'=>[
@@ -63,6 +75,28 @@ return [
         
             ],
     ],
+    'contact'=>[
+        'contact_us'=>'Contactez-nous',
+        'email_us'=>'Envoyez-nous un email',
+        'our_address'=>'Notre adresse',
+        'call_us'=>'Appelez-nous',
+        'address'=>'Addresse',
+        'phone'=>'Téléphone',
+        'email'=>'Email',
+        'send_message'=>'Envoyer un message',
+        'your_name'=>'Votre nom',
+        'your_email'=>'Votre email',
+        'subject'=>'Sujet',
+        'message'=>'Message',
+        'join_our_newsletter'=>'Join Our Newsletter',
+        'contact_us_desc'=>'Laissez-nous vos coordonnées et nous vous contacterons.'
+    ],
+    'about'=>[
+        'about_us'=>'A propos de nous',
+        'about_us_desc'=>'« VISION FRANÇOISE DEMEYER » n’existe que depuis peu mais la réflexion sur ses programmes a débuté depuis plus de cinq années. Plateforme de pensées : Les membres réfléchissent et mettent ensemble des idées et des propositions de projets. C’est donc le premier programme que nous avons développé. Magazine semestriel : Des ateliers de réflexions, ouverts au public, seront organisés chaque semestre et les …',
+
+    ],
+
 
 ];
 ?>

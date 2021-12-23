@@ -5,7 +5,7 @@
       <h2>{{__('lang.system.app_description')}}</h2>
       <div class="d-flex align-items-center">
         <i class="bx bxs-right-arrow-alt get-started-icon"></i>
-        <a href="#about" class="btn-get-started scrollto">{{__('lang.menu.donate_now')}}</a>
+        <a href="{{route('donation')}}" class="btn-get-started scrollto">{{__('lang.menu.donate_now')}}</a>
       </div>
     </div>
   </section><!-- End Hero -->

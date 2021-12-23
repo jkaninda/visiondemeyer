@@ -6,10 +6,19 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>
-   
-      {{__('lang.system.app_title')}}
+    @if (@$title)
+    {{@$title}}
+    @else
+    {{__('lang.system.app_title')}}
+    @endif
   </title>
-  <meta content="" name="description">
+  <meta content="
+  @if (@$description)
+    {{@$description}}
+    @else
+    {{__('lang.system.app_description')}}
+    @endif
+  " name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->

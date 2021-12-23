@@ -9,7 +9,7 @@
                 <h3>{{__('lang.hero.title')}}</h3>
                 <p>{{__('lang.hero.description')}}</p>
                 <div class="text-center">
-                  <a href="#donate" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
+                  <a href="{{route('donation')}}" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
                 </div>
               </div>
             </div>
@@ -24,7 +24,7 @@
                      
 
                       <div class="text-center">
-                        <a href="#donate" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
+                        <a href="{{route('donation')}}" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
                       </div>
   
                     </div>
@@ -35,7 +35,7 @@
                       <h4>{{__('lang.hero.cards.section_2.title')}}</h4>
                       <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
                       <div class="text-center">
-                        <a href="#donate" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
+                        <a href="{{route('donation')}}" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
                       </div>
                     </div>
                 
@@ -47,7 +47,7 @@
                       <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                     
                       <div class="text-center">
-                        <a href="#donate" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
+                        <a href="{{route('donation')}}" class="scrollto">{{__('lang.hero.cards.section_2.button_text')}}</a>
                       </div>
                     </div>
                   </div>
