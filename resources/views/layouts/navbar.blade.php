@@ -10,6 +10,7 @@
       <div class="cta d-none d-md-flex align-items-center">
         <a href="#donate" class="scrollto">{{__('lang.menu.donate_now')}}</a>
       </div>
+
     </div>
   </section>
 
@@ -33,8 +34,8 @@
           <li><a href="blog.html">BLOG</a></li>
           <li class="dropdown"><a href="#"><span>LANGUAGE</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="en">ENGLISH</a></li>
-              <li><a href="fr">FRANÇAIS</a></li>
+              <li><a href="lang/en">ENGLISH</a></li>
+              <li><a href="lang/fr">FRANÇAIS</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">{{__('lang.menu.contact_us')}}</a></li>

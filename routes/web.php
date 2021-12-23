@@ -21,5 +21,13 @@ Route::get('/', function () {
 Route::get('our-vision', function () {
     return view('our-vision')->name('our-vision');
 });
+Route::get('lang/{locale}', function ($locale) {
+    //app language
+    if (in_array($locale, config('app.locales'))) {
+        session()->put('locale', $locale);
+        return redirect()->back();
+    }
+    return redirect()->back();
+});
 
 });

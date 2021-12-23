@@ -18,8 +18,12 @@ class LocaleMiddleware
     {
      $locale = substr($request->server('HTTP_ACCEPT_LANGUAGE'), 0, 2);
 
-        if (in_array($locale, config('app.locales'))) {
+     if (session()->has('locale')) {
+        \App::setLocale(session()->get('locale'));
+        return $next($request);
+     }elseif(in_array($locale, config('app.locales'))) {
             \App::setLocale($locale);
+            session()->put('locale', $locale);
             return $next($request);
         }
         return $next($request);   
