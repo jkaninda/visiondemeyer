@@ -28,10 +28,10 @@
         <ul>
           <li><a class="nav-link scrollto {{ (Route::currentRouteName() =='home') ? 'active' : '' }}"
              href="{{route('home')}}">{{__('lang.menu.home')}}</a></li>
-          <li><a class="nav-link scrollto" href="#about">{{__('lang.menu.about_us')}}</a></li>
+          <li><a class="nav-link scrollto" href="{{route('home').'#about'}}">{{__('lang.menu.about_us')}}</a></li>
           <li><a class="nav-link  {{ (Route::currentRouteName() =='our-vision') ? 'active' : '' }}" href="our-vision">{{__('lang.menu.our_vision')}}</a></li>
           <li><a class="nav-link scrollto" href="{{route('our-vision')}}">{{__('lang.menu.our_projects')}}</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">{{__('lang.menu.our_team')}}</a></li>
+          <li><a class="nav-link scrollto" href="{{route('home').'#team'}}">{{__('lang.menu.our_team')}}</a></li>
           <li><a href="{{route('blog.index')}}">{{__('lang.menu.blog')}}</a></li>
           <li class="dropdown"><a href="#">
             <span>{{__('lang.menu.language')}}</span>
