@@ -32,7 +32,7 @@ return [
     'donation' => 'Donation',
     'our_team' => 'Our Team',
     'our_team_desc' => 'We are a team of young people who are passionate about building a better future for the children living in the slums.',
-
+    'blog' => 'Blog',
     ],
     'menu'=>[
         'home' => 'HOME',

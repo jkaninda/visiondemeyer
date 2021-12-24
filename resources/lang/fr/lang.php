@@ -29,6 +29,8 @@ return [
     'donation' => 'Donation',
     'our_team' => 'Notre équipe',
     'our_team_desc' => 'Nous sommes une équipe de jeunes qui sont passionnés pour la construction d\'un avenir meilleur pour les enfants vivant dans les slums.',
+    'blog' => 'Blogue',
+    
 
     ],
     'menu'=>[
@@ -47,7 +49,7 @@ return [
         'contact_us' => 'CONTACTEZ NOUS',
         'mission' => 'MISSION',
         'language' => 'LANGUE',
-        'blog' => 'BLOG',
+        'blog' => 'BLOGUE',
     ],
 
     'hero'=>[

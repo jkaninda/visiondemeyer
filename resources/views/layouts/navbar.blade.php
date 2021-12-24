@@ -32,7 +32,7 @@
           <li><a class="nav-link  {{ (Route::currentRouteName() =='our-vision') ? 'active' : '' }}" href="our-vision">{{__('lang.menu.our_vision')}}</a></li>
           <li><a class="nav-link scrollto" href="{{route('our-vision')}}">{{__('lang.menu.our_projects')}}</a></li>
           <li><a class="nav-link scrollto" href="#pricing">{{__('lang.menu.our_team')}}</a></li>
-          <li><a href="#">{{__('lang.menu.blog')}}</a></li>
+          <li><a href="{{route('blog.index')}}">{{__('lang.menu.blog')}}</a></li>
           <li class="dropdown"><a href="#">
             <span>{{__('lang.menu.language')}}</span>
              <i class="bi bi-chevron-down"></i></a>
