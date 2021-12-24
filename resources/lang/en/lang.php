@@ -33,6 +33,7 @@ return [
     'our_team' => 'Our Team',
     'our_team_desc' => 'We are a team of young people who are passionate about building a better future for the children living in the slums.',
     'blog' => 'Blog',
+    'our_values'=>'Our values'
     ],
     'menu'=>[
         'home' => 'HOME',
@@ -99,6 +100,7 @@ return [
     'about'=>[
         'about_us'=>'About Us',
         'about_us_desc'=>'VISION FRANÇOISE DEMEYER "has only been in existence for a short time, but reflection on its programs has started more than five years ago. Thinking platform: Members brainstorm and put together ideas and project proposals. So this is the first program that we have developed. Biannual magazine: Reflection workshops, open to the public, will be organized every semester and the…',
+        'values_desc'=>'Integrity, Respect, Courage and Love'
 
     ],
 

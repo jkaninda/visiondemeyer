@@ -14,13 +14,10 @@
 
               <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
                 <div class="icon"><i class="bx bx-atom"></i></div>
-                <h4 class="title"><a href="">Nos Valeurs</a></h4>
+                <h4 class="title"><a href="#">{{__('lang.system.our_values')}}</a></h4>
                 <p class="description"></p>
-                <ul>
-                  <li>L’Intégrité</li>     
-                  <li>Le Respect</li>     
-                  <li>Le Courage et l’Amour</li>     
-                </ul>
+                 {{__('lang.about.values_desc')}} <br>  
+          
 
 
               </div>

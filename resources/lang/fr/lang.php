@@ -30,6 +30,8 @@ return [
     'our_team' => 'Notre équipe',
     'our_team_desc' => 'Nous sommes une équipe de jeunes qui sont passionnés pour la construction d\'un avenir meilleur pour les enfants vivant dans les slums.',
     'blog' => 'Blogue',
+    'our_values'=>'Nos valeurs'
+    
     
 
     ],
@@ -96,6 +98,7 @@ return [
     'about'=>[
         'about_us'=>'A propos de nous',
         'about_us_desc'=>'« VISION FRANÇOISE DEMEYER » n’existe que depuis peu mais la réflexion sur ses programmes a débuté depuis plus de cinq années. Plateforme de pensées : Les membres réfléchissent et mettent ensemble des idées et des propositions de projets. C’est donc le premier programme que nous avons développé. Magazine semestriel : Des ateliers de réflexions, ouverts au public, seront organisés chaque semestre et les …',
+        'values_desc'=>"L'Intégrité, le Respect, le Courage et l'Amour"
 
     ],
 
