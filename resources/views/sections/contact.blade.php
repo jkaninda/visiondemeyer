@@ -26,14 +26,14 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>{{__('lang.contact.email_us')}}</h3>
-            <p>{{__('lang.system.email')}}<br>{{__('lang.system.email')}}</p>
+            <p>{{__('lang.system.email')}}<br></p>
           </div>
         </div>
         <div class="col-xl-3 col-lg-4 mt-4" data-aos="fade-up" data-aos-delay="200">
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
             <h3>{{__('lang.contact.call_us')}}</h3>
-            <p>{{__('lang.system.phone')}}<br>{{__('lang.system.phone')}}</p>
+            <p>{{__('lang.system.phone')}}<br></p>
           </div>
         </div>
       </div>
