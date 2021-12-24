@@ -17,3 +17,10 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+//Git auto pull
+Route::post('/deploy', function () {
+    exec('git reset --hard');
+    exec('git pull origin master', $output);
+    \Log::info($output);
+    return response()->json(['status' => 'success']);
+});
