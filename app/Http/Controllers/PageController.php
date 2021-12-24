@@ -25,4 +25,12 @@ class PageController extends Controller
             'route'=>'donation',
         ]);
     }
+    public function about(Request $request){
+        return view('pages.about-us',[
+            'title'=>trans('lang.about.about_us'),
+            'description'=>trans('lang.about.about_us_desc'),
+            'page_title'=>trans('lang.about.about_us'),
+            'route'=>'about-us',
+        ]);
+    }
 }

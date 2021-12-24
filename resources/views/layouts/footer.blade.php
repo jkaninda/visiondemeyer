@@ -38,7 +38,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>{{__('lang.contact.join_our_newsletter')}}</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p></p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="{{__('lang.system.subscribe')}}">
             </form>

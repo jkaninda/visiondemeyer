@@ -99,8 +99,19 @@ return [
 
     'about'=>[
         'about_us'=>'About Us',
-        'about_us_desc'=>'VISION FRANÇOISE DEMEYER "has only been in existence for a short time, but reflection on its programs has started more than five years ago. Thinking platform: Members brainstorm and put together ideas and project proposals. So this is the first program that we have developed. Biannual magazine: Reflection workshops, open to the public, will be organized every semester and the…',
-        'values_desc'=>'Integrity, Respect, Courage and Love'
+        'about_us_desc'=>"In 1968 Mademoiselle Françoise DE MEYER (1925-2012), then Auxiliary of the Apostolate in the Archdiocese of Kinshasa, accepted to lead the institution “the Lycée Marie-Thérèse”. which is now known as “LYCÉE MOTEMA MPIKO ”, Catholic conventioned school. This institution was created at the request of his Eminence Cardinal Joseph-Albert  MALULA.",
+        'about_us_desc_2'=>'The mission of the new high school was to produce educated and educated young girls, bearers of Christian and humanist values, capable of participating, alongside their male counterparts, in the construction of the new free Congo.',
+        'about_us_desc_3'=>"The school stayed true to the mission entrusted to it. It has seen several hundreds of young girls graduate with proven skills, both socially and professionally; ethical and moral qualities. These graduates are still the pride of Lycée MOTEMA MPIKO.",
+        'values_desc'=>'Integrity, Respect, Courage and Love',
+        'who_is_francoise'=>'Who is Francoise De Meyer?',
+        'title_2'=>'THE FOUNDERS OF THE ASSOCIATION',
+        'desc_1'=>'As former Lycée graduates, with considerable professional experience, are aware of the general deterioration in the level and quality of national education. We are faced with a Congo that wants to establish its identity in the continent and a world globalized. We find ourselves confronted with the glaring and urgent evidence to carry the luminous heritage bequeathed to us by Mademoiselle Françoise DE MEYER beyond the walls of the Lycée MOTEMA MPIKO.',
+        'desc_2'=>'This flame, this Force of Faith and Love, must be transmitted to our daughters and grand daughters to illuminate our country that we want to be brilliant in all respects. Thanks to the quality and the aptitudes of its youth, notwithstanding, their talents are no longer to be demonstrated.',
+        'desc_3'=>"It is our duty to perpetuate the work of Françoise DE MEYER, beyond the walls of the Lycée MOTEMA MPIKO. This we do by the transmission and the popularization of Christian and humanist values ​​and principles received is for us a duty of recognition and civic commitment.
+        Thus was born our a non-profit association, “VISION FRANÇOISE DE MEYER”.",
+        'desc_4'=>"Mademoiselle Françoise DEMEYER is our model. She is. a concrete model of the woman who puts her Faith and her Love into action, who devotes herself to others and brings out the best in them for work that is greater than herself. This work, however, without individual commitments, cannot happen."
+
+
 
     ],
 

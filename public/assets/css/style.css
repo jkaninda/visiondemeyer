@@ -603,7 +603,7 @@ section {
   font-size: 14px;
 }
 .about .video-box {
-  background: url("../img/about-img.jpg") center center no-repeat;
+  background: url("../img/team/team-1.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }

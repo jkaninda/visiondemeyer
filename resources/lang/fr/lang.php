@@ -92,13 +92,29 @@ return [
         'your_email'=>'Votre email',
         'subject'=>'Sujet',
         'message'=>'Message',
-        'join_our_newsletter'=>'Join Our Newsletter',
+        'join_our_newsletter'=>'Rejoignez notre newsletter',
         'contact_us_desc'=>'Laissez-nous vos coordonnées et nous vous contacterons.'
     ],
     'about'=>[
         'about_us'=>'A propos de nous',
-        'about_us_desc'=>'« VISION FRANÇOISE DEMEYER » n’existe que depuis peu mais la réflexion sur ses programmes a débuté depuis plus de cinq années. Plateforme de pensées : Les membres réfléchissent et mettent ensemble des idées et des propositions de projets. C’est donc le premier programme que nous avons développé. Magazine semestriel : Des ateliers de réflexions, ouverts au public, seront organisés chaque semestre et les …',
-        'values_desc'=>"L'Intégrité, le Respect, le Courage et l'Amour"
+        'about_us_desc'=>"En 1968 Mademoiselle Françoise DE MEYER (1925-2012), alors Auxiliaire d'Apostolat dans l'archidiocèse de Kinshasa, accepte de diriger l'institution « le Lycée Marie-Thérèse ». qui est maintenant connue sous le nom de « LYCÉE MOTEMA MPIKO », école conventionnée catholique. Cette institution a été créée à la demande de son Éminence le Cardinal Joseph-Albert MALULA.
+        ",
+        'values_desc'=>"L'Intégrité, le Respect, le Courage et l'Amour",
+        'about_us_desc_2'=>"La mission du nouveau lycée était de produire des jeunes filles instruites et éduquées, porteuses de valeurs chrétiennes et humanistes, capables de participer, aux côtés de leurs homologues masculins, à la construction du nouveau Congo libre.
+        ",
+        'about_us_desc_3'=>"L'école est restée fidèle à la mission qui lui a été confiée. Il a vu plusieurs centaines de jeunes filles diplômées avec des compétences avérées, à la fois socialement et professionnellement ; qualités éthiques et morales. Ces diplômés font toujours la fierté du Lycée MOTEMA MPIKO.
+        ",
+      
+        'who_is_francoise'=>'Qui est Francoise Demeyer ?',
+        'title_2'=>"LES FONDATEURS DE L'ASSOCIATION",
+        'desc_1'=>"Car les anciens diplômés du Lycée, avec une expérience professionnelle considérable, sont conscients de la dégradation générale du niveau et de la qualité de l'éducation nationale. Nous sommes face à un Congo qui veut asseoir son identité dans le continent et dans un monde globalisé. Nous nous trouvons confrontés à l'évidence criante et urgente de porter le patrimoine lumineux que nous a légué Mademoiselle Françoise DE MEYER au-delà des murs du Lycée MOTEMA MPIKO.",
+        'desc_2'=>"Cette flamme, cette Force de Foi et d'Amour, doit être transmise à nos filles et petites filles pour illuminer notre pays que nous voulons brillant à tous égards. Grâce à la qualité et aux aptitudes de sa jeunesse, pourtant, ses talents ne sont plus à démontrer.
+        ",
+        'desc_3'=>"Il est de notre devoir de pérenniser l'œuvre de Françoise DE MEYER, au-delà des murs du Lycée MOTEMA MPIKO. Ce que nous faisons par la transmission et la vulgarisation des valeurs et principes chrétiens et humanistes reçus est pour nous un devoir de reconnaissance et d'engagement citoyen.
+        ",
+        'desc_4'=>"Mademoiselle Françoise DEMEYER est notre modèle. Elle est. un modèle concret de la femme qui met en action sa Foi et son Amour, qui se consacre aux autres et en tire le meilleur d'eux-mêmes pour un travail plus grand qu'elle. Ce travail, cependant, sans engagements individuels, ne peut pas avoir lieu.
+        "
+
 
     ],
 

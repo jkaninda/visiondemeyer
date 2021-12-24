@@ -28,6 +28,7 @@ Route::middleware(['locale'])->group(function () {
     //Pages
     Route::get('our-vision',[PageController::class,'ourVision'])->name('our-vision');
     Route::get('donation',[PageController::class,'donation'])->name('donation');
+    Route::get('about-us',[PageController::class,'about'])->name('about-us');
 
     //Blog
     Route::prefix('blog')->group(function () {

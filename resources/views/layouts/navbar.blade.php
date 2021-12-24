@@ -33,7 +33,7 @@
           <li><a class="nav-link scrollto" href="{{route('our-vision')}}">{{__('lang.menu.our_projects')}}</a></li>
           <li><a class="nav-link scrollto" href="{{route('home').'#team'}}">{{__('lang.menu.our_team')}}</a></li>
           <li><a href="{{route('blog.index')}}">{{__('lang.menu.blog')}}</a></li>
-          <li class="dropdown"><a href="#">
+          <li class="dropdown"><a>
             <span>{{__('lang.menu.language')}}</span>
              <i class="bi bi-chevron-down"></i></a>
             <ul>
